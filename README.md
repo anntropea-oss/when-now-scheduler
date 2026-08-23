@@ -45,3 +45,7 @@ node --check docs/app.js
 npm run lint
 npm test
 ```
+
+## UX Testing
+
+Use `docs/ux-test-script.md` as the lightweight tester invite, task flow, and follow-up question set.
